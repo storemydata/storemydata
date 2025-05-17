@@ -1,10 +1,14 @@
 ## Hi there 👋
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U5c3lhOXViNWJncXM1aGVhbWpsZjVtMnNjMWIzMWljbWZldXpxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Gif Header" />
-![](https://komarev.com/ghpvc/?username=storemydata&color=grey&style=flat-square)
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 <!--<div id="badges">
   <a href="your-linkedin-URL">

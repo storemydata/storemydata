@@ -1,7 +1,7 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=storemydata&color=grey&style=flat-square)
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U5c3lhOXViNWJncXM1aGVhbWpsZjVtMnNjMWIzMWljbWZldXpxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Gif Header" />
+![](https://komarev.com/ghpvc/?username=storemydata&color=grey&style=flat-square)
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

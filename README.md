@@ -1,8 +1,8 @@
 <h1 align="left"> Hi there 👋, I'm Encode </h1>
 <h4 align="left"> - Passionate Full Stack Developer </h4>
 
-<!--![Gif](./room.gif) -->
-<img src="./room.gif" alt="gif" height="300" width="600" />
+<!--![Gif](./pixel-jeff-room.gif) -->
+<img src="./pixel-jeff-room.gif" alt="gif" height="300" width="600" />
 
 
 <br> [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/storemydata)

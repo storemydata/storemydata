@@ -1,6 +1,5 @@
 <h1 align="left"> Hi there 👋</h1>
 <h4 align="left"> Passionate Full Stack Developer with future prospects for Animation </h4>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI4Mmg3Y29ldml2NXRocmdiZm9ieDEwajJmOXFvYWw1NmJrd281NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Gif Header" /> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/storemydata)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
